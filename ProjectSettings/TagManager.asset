@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coins
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Coins
+  - enemy
+  - knifee
+  - player
+  - platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 3326491483
+    locked: 0
+  - name: snow
+    uniqueID: 283395619
+    locked: 0
+  - name: Mountains
+    uniqueID: 3352821301
+    locked: 0
+  - name: trees
+    uniqueID: 2135551201
+    locked: 0
+  - name: Platform
+    uniqueID: 3987866413
+    locked: 0
+  - name: kNIFE
+    uniqueID: 3496216175
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
